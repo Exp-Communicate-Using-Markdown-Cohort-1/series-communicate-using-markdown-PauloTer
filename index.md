@@ -6,3 +6,8 @@
 ###### H6 Header
 
 ![Image of Terracottocat](https://octodex.github.com/images/Terracottocat_Single.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
